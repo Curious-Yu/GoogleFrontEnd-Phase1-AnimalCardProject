@@ -1,0 +1,44 @@
+/* add your CSS here */
+#animal-card{
+  width: 320px;
+  padding: 20px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #ffcc99;
+  box-shadow: 2px 2px 2px 2px  #ffcc99;
+}
+
+.animal-name{
+  color: #000000;
+  padding: 2px;
+}
+
+.animal-image{
+  width: 300px;
+  height: 200px;
+  border-color: #ffcc99;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.animal-info{
+  width: 300px;
+  color: #000000;
+  border-color: #ffcc99;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.animal-highlight{
+  font-style: italic;
+}
+
+.animal-list{
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
